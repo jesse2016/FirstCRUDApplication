@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApcS7ip9Sx06kzkkMllp4fgAAAAACAAAAAAAQZgAAAAEAACAAAADKaVrOBCzEG8EDnOuiCOLg/QU9b+7rBc3gFFSm5RY5igAAAAAOgAAAAAIAACAAAADZBBNfq16UXgKu7MGzAqQ3FlcDnshxXZH8LdYXXVWGmSAAAAAHZajAlCQK/lc1uCvsER4qDYuP5P4cn/9hWEynTszsRkAAAADi263v2UnpdrCllLQZK/D4clkyvgfIgZ22KIxXp13W84ndy+6SY55GTSzXDG9po8NmAzqgADNzI3twcZBZscqA</EncryptedPassword>
+    <_PublishTargetUrl>E:\GitiWeb\netcore\netcoremvc1</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
